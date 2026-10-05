@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+downloads/
+*.pyc
+.idea/
+*.mp4
+*.part
